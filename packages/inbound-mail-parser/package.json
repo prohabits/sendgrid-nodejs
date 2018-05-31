@@ -1,7 +1,7 @@
 {
   "name": "@prohabits/sendgrid-inbound-mail-parser",
   "description": "SendGrid NodeJS inbound mail parser",
-  "version": "6.2.3-0",
+  "version": "6.2.4-0",
   "author": "SendGrid <dx@sendgrid.com> (sendgrid.com)",
   "contributors": [
     "Kyle Partridge <kyle.partridge@sendgrid.com>",
@@ -19,7 +19,7 @@
     "url": "git://github.com/prohabits/sendgrid-nodejs.git"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "private"
   },
   "main": "src/parser.js",
   "engines": {
