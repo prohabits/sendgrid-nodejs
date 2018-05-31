@@ -1,6 +1,6 @@
 {
-  "name": "@prohabits/subscription-widget",
-  "version": "6.2.6-0",
+  "name": "@prohabits/sendgrid-subscription-widget",
+  "version": "6.2.6",
   "description": "Double opt-in email automation",
   "main": "index.js",
   "scripts": {
