@@ -1,7 +1,7 @@
 {
-  "name": "@sendgrid/contact-importer",
+  "name": "@prohabits/sendgrid-contact-importer",
   "description": "SendGrid NodeJS contact importer",
-  "version": "6.2.1",
+  "version": "6.2.2-0",
   "author": "SendGrid <dx@sendgrid.com> (sendgrid.com)",
   "contributors": [
     "Kyle Partridge <kyle.partridge@sendgrid.com>",
@@ -16,7 +16,7 @@
   "homepage": "https://sendgrid.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sendgrid/sendgrid-nodejs.git"
+    "url": "git://github.com/prohabits/sendgrid-nodejs.git"
   },
   "main": "src/importer.js",
   "engines": {
