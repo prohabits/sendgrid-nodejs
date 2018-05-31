@@ -1,7 +1,7 @@
 {
   "name": "@prohabits/sendgrid-mail",
   "description": "SendGrid NodeJS mail service",
-  "version": "6.2.4-0",
+  "version": "6.2.5-0",
   "author": "SendGrid <dx@sendgrid.com> (sendgrid.com)",
   "contributors": [
     "Kyle Partridge <kyle.partridge@sendgrid.com>",
@@ -24,7 +24,7 @@
     "node": ">=6.0.0"
   },
   "publishConfig": {
-    "access": "private"
+    "access": "restricted"
   },
   "dependencies": {
     "@sendgrid/client": "^6.2.1",

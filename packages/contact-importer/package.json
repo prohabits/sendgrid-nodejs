@@ -1,7 +1,7 @@
 {
   "name": "@prohabits/sendgrid-contact-importer",
   "description": "SendGrid NodeJS contact importer",
-  "version": "6.2.4-0",
+  "version": "6.2.5-0",
   "author": "SendGrid <dx@sendgrid.com> (sendgrid.com)",
   "contributors": [
     "Kyle Partridge <kyle.partridge@sendgrid.com>",
@@ -23,7 +23,7 @@
     "node": ">=6.0.0"
   },
   "publishConfig": {
-    "access": "private"
+    "access": "restricted"
   },
   "dependencies": {
     "async.ensureasync": "^0.5.2",

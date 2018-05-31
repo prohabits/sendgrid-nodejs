@@ -1,6 +1,6 @@
 {
   "name": "@sendgrid/subscription-widget",
-  "version": "6.2.4-0",
+  "version": "6.2.5-0",
   "description": "Double opt-in email automation",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "sendgrid-rest": "^2.2.1"
   },
   "publishConfig": {
-    "access": "private"
+    "access": "restricted"
   },
   "engines": {
     "node": "4.1.1"
