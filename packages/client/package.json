@@ -1,7 +1,7 @@
 {
   "name": "@prohabits/sendgrid-client",
   "description": "SendGrid NodeJS API client",
-  "version": "6.2.2-0",
+  "version": "6.2.3-0",
   "author": "SendGrid <dx@sendgrid.com> (sendgrid.com)",
   "contributors": [
     "Kyle Partridge <kyle.partridge@sendgrid.com>",
